@@ -1,2 +1,2 @@
-# Sistema-Bancario-
-Sistema bancário com login, trasnferencias para terceiros, saques e depósitos.
+# Sistema-Bancario-java
+Sistema bancário em Java com login, transferências entre contas, saques e depósitos.
